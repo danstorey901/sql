@@ -1,0 +1,1 @@
+Select * from Student Where GPA >= 3.0;

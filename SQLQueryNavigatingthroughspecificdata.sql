@@ -1,0 +1,1 @@
+Select * from ClassGrade Where GPA = 4.0;
